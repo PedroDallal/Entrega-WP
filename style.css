@@ -1,0 +1,39 @@
+/* 
+Theme Name: Tema Capitalista
+Theme URI: http:/localhost/pasta-wordpress
+Description: Entrega do Tema
+Author: Pedro Dallal
+Author URI: http:/localhost/pasta-wordpress
+Version: 1.0
+*/
+
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+.header {
+background: url(https://c1.wallpaperflare.com/preview/430/392/875/4th-of-july-american-flag-dom-photos.jpg);
+background-repeat: no-repeat;
+    background-size:100%;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    background-size: cover;
+
+}
+.header .content {
+    padding: 13rem 0;
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+    color: darkblue;
+}
+
